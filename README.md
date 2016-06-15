@@ -5,7 +5,7 @@
 Compares two outputs command `du`. Displays deleted, new, growed and reduced directories and size change.
 
 Example
-
+<pre>
  du > 20160515.du
  ...
  du > 20160615.du
@@ -21,5 +21,5 @@ Example
  reduced:
                    68 ./d2
                     4 .
-
+</pre>
 
